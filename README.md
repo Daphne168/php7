@@ -1,6 +1,7 @@
 # 說明1
 需要先建立db各欄位(這就用一個檔說明)
 1. build_db.html
+2. build_db.jpg
 
 # 說明2
 1. config.php (連結db的設定檔) - 有4項值是你自己的開發環境要改的。
